@@ -1,0 +1,18 @@
+{
+  "appId": "com.maxbot.prototype",
+  "appName": "Max",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "minWebViewVersion": 60,
+    "adjustMarginsForEdgeToEdge": "auto"
+  },
+  "plugins": {
+    "EdgeToEdge": {
+      "backgroundColor": "#f6f3ee"
+    }
+  }
+}
